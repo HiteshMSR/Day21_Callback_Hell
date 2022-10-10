@@ -1,0 +1,9 @@
+div{
+    font-size:70px;
+    max-width:600px;
+    margin:auto;
+    height:90vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
